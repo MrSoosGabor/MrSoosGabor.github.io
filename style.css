@@ -1,0 +1,40 @@
+.layout{
+  margin: auto;
+  width: 800px;
+  
+}
+.cyan{
+  background: cyan;
+  height: 100px;
+}
+.container{
+  display: flex;
+  justify-content:space-between;
+  height: 800px;
+  
+}
+.orange{
+  background: orange;
+  width: 150px;
+}
+.red{
+  background: red;
+  width: 450px;
+  position: relative;
+}
+.purple{
+  background: purple;
+  width: 150px;
+}
+.blue{
+  background: blue;
+  height: 100px;
+}
+.black{
+  background: black;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+}
